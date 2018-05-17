@@ -22,7 +22,9 @@ PATH environment variable
 
 What is sub-shell
 
-Quotes single, double and reverse - Know difference between each
+[Make Shell Script Template](https://www.youtube.com/watch?v=7KEQJ7jtkTg)
+
+[Quotes single, double and reverse - Know difference between each](https://www.youtube.com/watch?v=9_fhRI-dos4)
 
 Grab User input and Print - Using read command
 
@@ -30,7 +32,9 @@ Bash colors
 
 Script exit status
 
-Variables and it's rules
+[Variables and it's rules](https://www.youtube.com/watch?v=839s_OtTqDA)
+
+[Special Variables](https://www.youtube.com/watch?v=PfxzX4XNYRE)
 
 Environment Variables, system variables and user defined variables
 
@@ -38,15 +42,15 @@ Constant variables, Local & Global variables and Special variables
 
 Positional Parameters
 
-Count number command line arguments $#
+[Count number command line arguments $#](https://www.youtube.com/watch?v=YizjrX9ph10)
 
-Arithmetic Operators
+[Arithmetic Operators](https://www.youtube.com/watch?v=qxNQ_D8txPo)
 
-Relational Operators
+[Relational Operators](https://www.youtube.com/watch?v=U-u1wx5VeTU)
 
 Relational ASCII operators
 
-Logical Operators
+[LogicalOperators](https://www.youtube.com/watch?v=m_F1FTKdUU4)
 
 Assignment Operators
 
@@ -62,13 +66,11 @@ Do mathametics using let command
 
 Escape sequence
 
-if statement
+[if statement](https://www.youtube.com/watch?v=gncu9vzmILw)
 
-if statement with test command
+[if-else statement](https://www.youtube.com/watch?v=nDhbOeEQeNY)
 
-if-else statement 
-
-if-else-if statement
+[if-else-if statement](https://www.youtube.com/watch?v=UJET-9cmaqU)
 
 Nested if statement
 
