@@ -1,6 +1,9 @@
 # shell-scripting-tutorial
 
 Keep in touch with for any kind of technical questions 
+
+https://techtutorials.github.io/shell-scripting-tutorial/
+
 [Facebook](https://www.facebook.com/Linuxarkit/)
 [Email List](https://feedburner.google.com/fb/a/mailverify?uri=arkit)
 [Linkedin](https://in.linkedin.com/in/ravi-kumar-94530121)
