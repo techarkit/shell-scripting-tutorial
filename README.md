@@ -1,5 +1,14 @@
 # shell-scripting-tutorial
 
+Keep in touch with for any kind of technical questions 
+[Facebook](https://www.facebook.com/Linuxarkit/)
+[Email List](https://feedburner.google.com/fb/a/mailverify?uri=arkit)
+[Linkedin](https://in.linkedin.com/in/ravi-kumar-94530121)
+[Google Plus](https://plus.google.com/u/0/+RedhatEnterpriseLinuxStepbyStepGuide/posts)
+[Twitter](https://twitter.com/aravikumar48)
+[Youtube](https://www.youtube.com/Techarkit?sub_confirmation=1)
+[Email Address](aravikumar48@gmail.com)
+
 A complete begineers guide to learn shell scripting from scratch which includes Videos, Practice scenarios and project idea. I will create one file for one topic with code.
 
 Before jumping into the Shell scripting below are commands you have to practice for better understanding and familiar with Linux command line interface. 
@@ -147,3 +156,14 @@ $(()) - Pass command to sub-shell
 logger logging messages to log file
 
 Exec to send input to terminal
+
+Resource to Download
+
+[Shell Scripting Book](https://arkit-in.tradepub.com/free/w_wile48/)
+
+[Shell Scripting Book](https://arkit-in.tradepub.com/free/w_pack42/)
+
+[Shell Scripting Book](https://arkit-in.tradepub.com/free/w_advb01/)
+
+[Shell Scripting Book](https://arkit-in.tradepub.com/free/w_wile54/)
+
