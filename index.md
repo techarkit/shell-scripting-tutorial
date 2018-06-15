@@ -1,37 +1,169 @@
-## Welcome to GitHub Pages
+# shell-scripting-tutorial
 
-You can use the [editor on GitHub](https://github.com/techtutorials/shell-scripting-tutorial/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Keep in touch with for any kind of technical questions 
+[Facebook](https://www.facebook.com/Linuxarkit/)
+[Email List](https://feedburner.google.com/fb/a/mailverify?uri=arkit)
+[Linkedin](https://in.linkedin.com/in/ravi-kumar-94530121)
+[Google Plus](https://plus.google.com/u/0/+RedhatEnterpriseLinuxStepbyStepGuide/posts)
+[Twitter](https://twitter.com/aravikumar48)
+[Youtube](https://www.youtube.com/Techarkit?sub_confirmation=1)
+[Email Address](aravikumar48@gmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A complete begineers guide to learn shell scripting from scratch which includes Videos, Practice scenarios and project idea. I will create one file for one topic with code.
 
-### Markdown
+Before jumping into the Shell scripting below are commands you have to practice for better understanding and familiar with Linux command line interface. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you do not learn below commands also fine but i personally recommend you to learn commands first.
 
-```markdown
-Syntax highlighted code block
+[103 Linux Commands Video Tutorial](https://www.youtube.com/watch?v=VG-MMju9RhQ&list=PLHyfPDPl-JDX_dfDEpsvglu4x3h1RjPkz)
 
-# Header 1
-## Header 2
-### Header 3
+alias and unalias, arch, arp, at, awk, bc, blkid, cal, cat, cd, chage, chattr, chgrp, chmod, chown, cp, cpio, crontab, curl, cut, date, dd, df, diff, dig, dnf, du, expr, fdisk, file, find, firewall-cmd, free, ftp, grep, head, history, hostname, id, ifconfig, iostat, ip, kill, last, lessandmore, ln, locate, lpstatandlpadmin, ls, lsof, lspci, mail, man, mdadm, mkdirandrmdir, mkisofs, mount, mutt, mv, nano, netstat, nice, renice, nslookup, passwd, pam_tally2, paste, ping, perloneliner, pkill, ps, pwd, reboot, poweroff, rm, rpm, rsync, scp, screen, sed, sort, ss, ssh, sysctl, tail, tar, tcpdump, top, touch, tr, traceroute, umask, uname, uniq, uptime, useradd, vi, vmstat, w, who, watch, wc, wget, ypcat, yppasswd, yum, zip, sar
 
-- Bulleted
-- List
+After that start learning shell scripting using below topics
 
-1. Numbered
-2. List
+[Shell Scripting Video Tutorial](https://www.youtube.com/watch?v=7GNUzvjS_mE&list=PL8cE5Nxf6M6b8qW7CSMsdKbEsPdG9pWfu)
 
-**Bold** and _Italic_ and `Code` text
+[Shell Scripting course Overview](https://www.youtube.com/watch?v=7GNUzvjS_mE)
 
-[Link](url) and ![Image](src)
-```
+[Linux Basics](https://www.youtube.com/watch?v=IFvMor-0eFM)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Linux Directory Structure](https://www.youtube.com/watch?v=rVxpe1_lNFE)
 
-### Jekyll Themes
+[Linux Basic Commands](https://www.youtube.com/watch?v=yYC8aaQ3eZA)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/techtutorials/shell-scripting-tutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Copy, Remove, Move and Time Commands](https://www.youtube.com/watch?v=G7XFreQkDB8)
 
-### Support or Contact
+[Dif and Grep Commands](https://www.youtube.com/watch?v=RwcQ6JzTsmA)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Head, tail, sort and more commands](https://www.youtube.com/watch?v=OgV3qrPQulU)
+
+[tr and wc commands](https://www.youtube.com/watch?v=d40a5zFa8yI)
+
+[Disk utilities like fdisk, df and du commands](https://www.youtube.com/watch?v=vx1WZepOmKg)
+
+[Getting Help From Command Line user Interface](https://www.youtube.com/watch?v=GcYu-0IIJas)
+
+[w, who, hostnamem hostnamectl and uname commands](https://www.youtube.com/watch?v=7shAr5lp_Wc)
+
+[Search for files and directories using find and locate commands](https://www.youtube.com/watch?v=Rd6e-OrsHpo)
+
+[top command its output explanation](https://www.youtube.com/watch?v=UQ7rr4_47YY)
+
+[vi & vim text editor](https://www.youtube.com/watch?v=K3SUrcJ740Y)
+
+[sed, awk, vmstat and nestat commands](https://www.youtube.com/watch?v=4hJorSKg9E0)
+
+[vnstat command](https://www.youtube.com/watch?v=KlpE2Ok6Bxo)
+
+[Introduction to Graphical user interface](https://www.youtube.com/watch?v=Yck_xhz9ku0)
+
+[cut command](https://www.youtube.com/watch?v=kBZNJdw7RQQ)
+
+[Merge multiple files using paste command](https://www.youtube.com/watch?v=_Efd6PxhNq4)
+
+[Connect and Manage remote machine using SSH](https://www.youtube.com/watch?v=Dp9J7aktYDs)
+
+[Changing files and directory permissions](https://www.youtube.com/watch?v=NNAxqSyTsUI)
+
+[tar and zip commands](https://www.youtube.com/watch?v=lVQppyhgERA)
+
+[Scheduling future jobs using crontab](https://www.youtube.com/watch?v=OOOabNTnSwY)
+
+[difference between scripting and programming](https://www.youtube.com/watch?v=5UuTNosxNgI)
+
+[what is shell scripting and it's advantages](https://www.youtube.com/watch?v=m2DvuF_S4Ac)
+
+[PATH environment variable](https://www.youtube.com/watch?v=4TZyWegxzGY)
+
+[Symbols used shell scripting](https://www.youtube.com/watch?v=L8IxV7bvBHU)
+
+[Make Shell Script Template](https://www.youtube.com/watch?v=7KEQJ7jtkTg)
+
+[Quotes single, double and reverse - Know difference between each](https://www.youtube.com/watch?v=9_fhRI-dos4)
+
+[Bash colors](https://arkit.co.in/coloring-style-text-shell-scripting/)
+
+[Script exit status](https://arkit.co.in/shell-scripting-exit-status-shell-scripting-return-codes/)
+
+[Variables and it's rules](https://www.youtube.com/watch?v=839s_OtTqDA)
+
+[Special Variables](https://www.youtube.com/watch?v=PfxzX4XNYRE)
+
+[Environment Variables, system variables and user defined variables](https://www.youtube.com/watch?v=PfxzX4XNYRE)
+
+[Constant variables, Local & Global variables and Special variables](https://www.youtube.com/watch?v=839s_OtTqDA)
+
+[Positional Parameters](https://www.youtube.com/watch?v=PfxzX4XNYRE)
+
+[Count number command line arguments $#](https://www.youtube.com/watch?v=YizjrX9ph10)
+
+[Arithmetic Operators](https://www.youtube.com/watch?v=qxNQ_D8txPo)
+
+[Relational Operators](https://www.youtube.com/watch?v=U-u1wx5VeTU)
+
+[LogicalOperators](https://www.youtube.com/watch?v=m_F1FTKdUU4)
+
+[Boolean Operators](https://www.youtube.com/watch?v=U-u1wx5VeTU)
+
+[Maths using expr command](https://www.youtube.com/watch?v=qxNQ_D8txPo)
+
+[Real maths using bc command](https://www.youtube.com/watch?v=qxNQ_D8txPo)
+
+[if statement](https://www.youtube.com/watch?v=gncu9vzmILw)
+
+[if-else statement](https://www.youtube.com/watch?v=nDhbOeEQeNY)
+
+[if-else-if statement](https://www.youtube.com/watch?v=UJET-9cmaqU)
+
+[Nested if statement](https://www.youtube.com/watch?v=Kd1SJFnmj9k)
+
+[Case statement](https://www.youtube.com/watch?v=JJ7mAPU0KhI)
+
+[For Loop](https://www.youtube.com/watch?v=1fnAUUS4qg0)
+
+[While Loop](https://www.youtube.com/watch?v=nBMuVIRGpwY)
+
+[Until Loop](https://www.youtube.com/watch?v=zdk795qFgWk)
+
+[Functions](https://www.youtube.com/watch?v=jXv1otUXMG4)
+
+[Arrays](https://www.youtube.com/watch?v=2Fetj2V6rrM)
+
+[Eval command](https://www.youtube.com/watch?v=AjqBRGwLmLc&list=PL8cE5Nxf6M6b8qW7CSMsdKbEsPdG9pWfu&index=57&t=0s)
+
+[Shifting parameters using shift command](https://www.youtube.com/watch?v=48j0kxOFKZE)
+
+[IFS - Input Field Separator](https://www.youtube.com/watch?v=so8IRuhWjEM)
+
+[Writing CPU Usage script](https://www.youtube.com/watch?v=NQx43bY4lNo)
+
+[Writing Disk Utilization script](https://www.youtube.com/watch?v=yXhdDV13nrA)
+
+[Trouble shooting debugging shell scripts](https://www.youtube.com/watch?v=kgj-4_gmvi4)
+
+[Checking shell script errors and improvements using shellcheck.net site](https://www.youtube.com/watch?v=kgj-4_gmvi4)
+
+[Here Document to write paragraphs of text](https://www.youtube.com/watch?v=r9lb0ZxGFqE)
+
+[Getopts Function](https://www.youtube.com/watch?v=j-lEoC0DWI8)
+
+Tput making menu's
+
+Executing Multiple scripts from single script
+
+$(()) - Pass command to sub-shell
+
+logger logging messages to log file
+
+Exec to send input to terminal
+
+Resource to Download
+
+[Shell Scripting Book](https://arkit-in.tradepub.com/free/w_wile48/)
+
+[Shell Scripting Book](https://arkit-in.tradepub.com/free/w_pack42/)
+
+[Shell Scripting Book](https://arkit-in.tradepub.com/free/w_advb01/)
+
+[Shell Scripting Book](https://arkit-in.tradepub.com/free/w_wile54/)
+
