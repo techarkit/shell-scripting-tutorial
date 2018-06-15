@@ -14,33 +14,77 @@ After that start learning shell scripting using below topics
 
 [Shell Scripting Video Tutorial](https://www.youtube.com/watch?v=7GNUzvjS_mE&list=PL8cE5Nxf6M6b8qW7CSMsdKbEsPdG9pWfu)
 
-Difference between scripting and programming
+[Shell Scripting course Overview](https://www.youtube.com/watch?v=7GNUzvjS_mE)
 
-What is shell scripting and it's advantages
+[Linux Basics](https://www.youtube.com/watch?v=IFvMor-0eFM)
 
-PATH environment variable
+[Linux Directory Structure](https://www.youtube.com/watch?v=rVxpe1_lNFE)
 
-What is sub-shell
+[Linux Basic Commands](https://www.youtube.com/watch?v=yYC8aaQ3eZA)
+
+[Copy, Remove, Move and Time Commands](https://www.youtube.com/watch?v=G7XFreQkDB8)
+
+[Dif and Grep Commands](https://www.youtube.com/watch?v=RwcQ6JzTsmA)
+
+[Head, tail, sort and more commands](https://www.youtube.com/watch?v=OgV3qrPQulU)
+
+[tr and wc commands](https://www.youtube.com/watch?v=d40a5zFa8yI)
+
+[Disk utilities like fdisk, df and du commands](https://www.youtube.com/watch?v=vx1WZepOmKg)
+
+[Getting Help From Command Line user Interface](https://www.youtube.com/watch?v=GcYu-0IIJas)
+
+[w, who, hostnamem hostnamectl and uname commands](https://www.youtube.com/watch?v=7shAr5lp_Wc)
+
+[Search for files and directories using find and locate commands](https://www.youtube.com/watch?v=Rd6e-OrsHpo)
+
+[top command its output explanation](https://www.youtube.com/watch?v=UQ7rr4_47YY)
+
+[vi & vim text editor](https://www.youtube.com/watch?v=K3SUrcJ740Y)
+
+[sed, awk, vmstat and nestat commands](https://www.youtube.com/watch?v=4hJorSKg9E0)
+
+[vnstat command](https://www.youtube.com/watch?v=KlpE2Ok6Bxo)
+
+[Introduction to Graphical user interface](https://www.youtube.com/watch?v=Yck_xhz9ku0)
+
+[cut command](https://www.youtube.com/watch?v=kBZNJdw7RQQ)
+
+[Merge multiple files using paste command](https://www.youtube.com/watch?v=_Efd6PxhNq4)
+
+[Connect and Manage remote machine using SSH](https://www.youtube.com/watch?v=Dp9J7aktYDs)
+
+[Changing files and directory permissions](https://www.youtube.com/watch?v=NNAxqSyTsUI)
+
+[tar and zip commands](https://www.youtube.com/watch?v=lVQppyhgERA)
+
+[Scheduling future jobs using crontab](https://www.youtube.com/watch?v=OOOabNTnSwY)
+
+[difference between scripting and programming](https://www.youtube.com/watch?v=5UuTNosxNgI)
+
+[what is shell scripting and it's advantages](https://www.youtube.com/watch?v=m2DvuF_S4Ac)
+
+[PATH environment variable](https://www.youtube.com/watch?v=4TZyWegxzGY)
+
+[Symbols used shell scripting](https://www.youtube.com/watch?v=L8IxV7bvBHU)
 
 [Make Shell Script Template](https://www.youtube.com/watch?v=7KEQJ7jtkTg)
 
 [Quotes single, double and reverse - Know difference between each](https://www.youtube.com/watch?v=9_fhRI-dos4)
 
-Grab User input and Print - Using read command
+[Bash colors](https://arkit.co.in/coloring-style-text-shell-scripting/)
 
-Bash colors
-
-Script exit status
+[Script exit status](https://arkit.co.in/shell-scripting-exit-status-shell-scripting-return-codes/)
 
 [Variables and it's rules](https://www.youtube.com/watch?v=839s_OtTqDA)
 
 [Special Variables](https://www.youtube.com/watch?v=PfxzX4XNYRE)
 
-Environment Variables, system variables and user defined variables
+[Environment Variables, system variables and user defined variables](https://www.youtube.com/watch?v=PfxzX4XNYRE)
 
-Constant variables, Local & Global variables and Special variables
+[Constant variables, Local & Global variables and Special variables](https://www.youtube.com/watch?v=839s_OtTqDA)
 
-Positional Parameters
+[Positional Parameters](https://www.youtube.com/watch?v=PfxzX4XNYRE)
 
 [Count number command line arguments $#](https://www.youtube.com/watch?v=YizjrX9ph10)
 
@@ -48,23 +92,13 @@ Positional Parameters
 
 [Relational Operators](https://www.youtube.com/watch?v=U-u1wx5VeTU)
 
-Relational ASCII operators
-
 [LogicalOperators](https://www.youtube.com/watch?v=m_F1FTKdUU4)
 
-Assignment Operators
+[Boolean Operators](https://www.youtube.com/watch?v=U-u1wx5VeTU)
 
-Boolean Operators
+[Maths using expr command](https://www.youtube.com/watch?v=qxNQ_D8txPo)
 
-Redirecting Input, output and errors
-
-Maths using expr command
-
-Real maths using bc command
-
-Do mathametics using let command
-
-Escape sequence
+[Real maths using bc command](https://www.youtube.com/watch?v=qxNQ_D8txPo)
 
 [if statement](https://www.youtube.com/watch?v=gncu9vzmILw)
 
@@ -72,25 +106,37 @@ Escape sequence
 
 [if-else-if statement](https://www.youtube.com/watch?v=UJET-9cmaqU)
 
-Nested if statement
+[Nested if statement](https://www.youtube.com/watch?v=Kd1SJFnmj9k)
 
-Case statement
+[Case statement](https://www.youtube.com/watch?v=JJ7mAPU0KhI)
 
-For Loop
+[For Loop](https://www.youtube.com/watch?v=1fnAUUS4qg0)
 
-While Loop
+[While Loop](https://www.youtube.com/watch?v=nBMuVIRGpwY)
 
-Until Loop
+[Until Loop](https://www.youtube.com/watch?v=zdk795qFgWk)
 
-Break, sleep, continue and Exit
+[Functions](https://www.youtube.com/watch?v=jXv1otUXMG4)
 
-Functions
+[Arrays](https://www.youtube.com/watch?v=2Fetj2V6rrM)
 
-Arrays
+[Eval command](https://www.youtube.com/watch?v=AjqBRGwLmLc&list=PL8cE5Nxf6M6b8qW7CSMsdKbEsPdG9pWfu&index=57&t=0s)
 
-Eval command
+[Shifting parameters using shift command](https://www.youtube.com/watch?v=48j0kxOFKZE)
 
-Shifting parameters using shift command
+[IFS - Input Field Separator](https://www.youtube.com/watch?v=so8IRuhWjEM)
+
+[Writing CPU Usage script](https://www.youtube.com/watch?v=NQx43bY4lNo)
+
+[Writing Disk Utilization script](https://www.youtube.com/watch?v=yXhdDV13nrA)
+
+[Trouble shooting debugging shell scripts](https://www.youtube.com/watch?v=kgj-4_gmvi4)
+
+[Checking shell script errors and improvements using shellcheck.net site](https://www.youtube.com/watch?v=kgj-4_gmvi4)
+
+[Here Document to write paragraphs of text](https://www.youtube.com/watch?v=r9lb0ZxGFqE)
+
+[Getopts Function](https://www.youtube.com/watch?v=j-lEoC0DWI8)
 
 Tput making menu's
 
@@ -100,14 +146,4 @@ $(()) - Pass command to sub-shell
 
 logger logging messages to log file
 
-IFS - Input Field Separator
-
 Exec to send input to terminal
-
-Writing CPU Usage script
-
-Writing Disk Utilization script
-
-Trouble shooting debugging shell scripts
-
-Checking shell script errors and improvements using shellcheck.net site
