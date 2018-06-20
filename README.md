@@ -4,13 +4,13 @@ Keep in touch with for any kind of technical questions
 
 https://techtutorials.github.io/shell-scripting-tutorial/
 
-[Facebook](https://www.facebook.com/Linuxarkit/)
-[Email List](https://feedburner.google.com/fb/a/mailverify?uri=arkit)
-[Linkedin](https://in.linkedin.com/in/ravi-kumar-94530121)
-[Google Plus](https://plus.google.com/u/0/+RedhatEnterpriseLinuxStepbyStepGuide/posts)
-[Twitter](https://twitter.com/aravikumar48)
-[Youtube](https://www.youtube.com/Techarkit?sub_confirmation=1)
-[Email Address](aravikumar48@gmail.com)
+* [Facebook](https://www.facebook.com/Linuxarkit/)
+* [Email List](https://feedburner.google.com/fb/a/mailverify?uri=arkit)
+* [Linkedin](https://in.linkedin.com/in/ravi-kumar-94530121)
+* [Google Plus](https://plus.google.com/u/0/+RedhatEnterpriseLinuxStepbyStepGuide/posts)
+* [Twitter](https://twitter.com/aravikumar48)
+* [Youtube](https://www.youtube.com/Techarkit?sub_confirmation=1)
+* [Email Address](aravikumar48@gmail.com)
 
 A complete begineers guide to learn shell scripting from scratch which includes Videos, Practice scenarios and project idea. I will create one file for one topic with code.
 
@@ -150,17 +150,11 @@ After that start learning shell scripting using below topics
 
 [Getopts Function](https://www.youtube.com/watch?v=j-lEoC0DWI8)
 
-Tput making menu's
+[Executing Multiple scripts from single script](https://youtu.be/hs-FK681D50)
 
-Executing Multiple scripts from single script
+[logger logging messages to log file](https://youtu.be/_kMXvtn1RRQ)
 
-$(()) - Pass command to sub-shell
-
-logger logging messages to log file
-
-Exec to send input to terminal
-
-Resource to Download
+**Resource to Download**
 
 [Shell Scripting Book](https://arkit-in.tradepub.com/free/w_wile48/)
 
