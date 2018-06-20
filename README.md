@@ -1,4 +1,4 @@
-# shell-scripting-tutorial
+# shell scripting tutorial
 
 Keep in touch with for any kind of technical questions 
 
