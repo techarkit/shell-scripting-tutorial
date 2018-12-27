@@ -11,6 +11,10 @@ https://techtutorials.github.io/shell-scripting-tutorial/
 * [Twitter](https://twitter.com/aravikumar48)
 * [Youtube](https://www.youtube.com/Techarkit?sub_confirmation=1)
 * [Email Address](aravikumar48@gmail.com)
+* [WhatsApp Group](http://bit.ly/wappg)
+* [Linux Telegram Group](http://bit.ly/linux-telegram)
+* [Reddit TechTutorials](http://bit.ly/redditark)
+* [Tumblr](https://www.tumblr.com/blog/aravikumar48)
 
 A complete begineers guide to learn shell scripting from scratch which includes Videos, Practice scenarios and project idea. I will create one file for one topic with code.
 
@@ -24,143 +28,75 @@ alias and unalias, arch, arp, at, awk, bc, blkid, cal, cat, cd, chage, chattr, c
 
 After that start learning shell scripting using below topics
 
-[Shell Scripting Video Tutorial](https://www.youtube.com/watch?v=7GNUzvjS_mE&list=PL8cE5Nxf6M6b8qW7CSMsdKbEsPdG9pWfu)
-
-[Shell Scripting course Overview](https://www.youtube.com/watch?v=7GNUzvjS_mE)
-
-[Linux Basics](https://www.youtube.com/watch?v=IFvMor-0eFM)
-
-[Linux Directory Structure](https://www.youtube.com/watch?v=rVxpe1_lNFE)
-
-[Linux Basic Commands](https://www.youtube.com/watch?v=yYC8aaQ3eZA)
-
-[Copy, Remove, Move and Time Commands](https://www.youtube.com/watch?v=G7XFreQkDB8)
-
-[Dif and Grep Commands](https://www.youtube.com/watch?v=RwcQ6JzTsmA)
-
-[Head, tail, sort and more commands](https://www.youtube.com/watch?v=OgV3qrPQulU)
-
-[tr and wc commands](https://www.youtube.com/watch?v=d40a5zFa8yI)
-
-[Disk utilities like fdisk, df and du commands](https://www.youtube.com/watch?v=vx1WZepOmKg)
-
-[Getting Help From Command Line user Interface](https://www.youtube.com/watch?v=GcYu-0IIJas)
-
-[w, who, hostnamem hostnamectl and uname commands](https://www.youtube.com/watch?v=7shAr5lp_Wc)
-
-[Search for files and directories using find and locate commands](https://www.youtube.com/watch?v=Rd6e-OrsHpo)
-
-[top command its output explanation](https://www.youtube.com/watch?v=UQ7rr4_47YY)
-
-[vi & vim text editor](https://www.youtube.com/watch?v=K3SUrcJ740Y)
-
-[sed, awk, vmstat and nestat commands](https://www.youtube.com/watch?v=4hJorSKg9E0)
-
-[vnstat command](https://www.youtube.com/watch?v=KlpE2Ok6Bxo)
-
-[Introduction to Graphical user interface](https://www.youtube.com/watch?v=Yck_xhz9ku0)
-
-[cut command](https://www.youtube.com/watch?v=kBZNJdw7RQQ)
-
-[Merge multiple files using paste command](https://www.youtube.com/watch?v=_Efd6PxhNq4)
-
-[Connect and Manage remote machine using SSH](https://www.youtube.com/watch?v=Dp9J7aktYDs)
-
-[Changing files and directory permissions](https://www.youtube.com/watch?v=NNAxqSyTsUI)
-
-[tar and zip commands](https://www.youtube.com/watch?v=lVQppyhgERA)
-
-[Scheduling future jobs using crontab](https://www.youtube.com/watch?v=OOOabNTnSwY)
-
-[difference between scripting and programming](https://www.youtube.com/watch?v=5UuTNosxNgI)
-
-[what is shell scripting and it's advantages](https://www.youtube.com/watch?v=m2DvuF_S4Ac)
-
-[PATH environment variable](https://www.youtube.com/watch?v=4TZyWegxzGY)
-
-[Symbols used shell scripting](https://www.youtube.com/watch?v=L8IxV7bvBHU)
-
-[Make Shell Script Template](https://www.youtube.com/watch?v=7KEQJ7jtkTg)
-
-[Quotes single, double and reverse - Know difference between each](https://www.youtube.com/watch?v=9_fhRI-dos4)
-
-[Bash colors](https://arkit.co.in/coloring-style-text-shell-scripting/)
-
-[Script exit status](https://arkit.co.in/shell-scripting-exit-status-shell-scripting-return-codes/)
-
-[Variables and it's rules](https://www.youtube.com/watch?v=839s_OtTqDA)
-
-[Special Variables](https://www.youtube.com/watch?v=PfxzX4XNYRE)
-
-[Environment Variables, system variables and user defined variables](https://www.youtube.com/watch?v=PfxzX4XNYRE)
-
-[Constant variables, Local & Global variables and Special variables](https://www.youtube.com/watch?v=839s_OtTqDA)
-
-[Positional Parameters](https://www.youtube.com/watch?v=PfxzX4XNYRE)
-
-[Count number command line arguments $#](https://www.youtube.com/watch?v=YizjrX9ph10)
-
-[Arithmetic Operators](https://www.youtube.com/watch?v=qxNQ_D8txPo)
-
-[Relational Operators](https://www.youtube.com/watch?v=U-u1wx5VeTU)
-
-[LogicalOperators](https://www.youtube.com/watch?v=m_F1FTKdUU4)
-
-[Boolean Operators](https://www.youtube.com/watch?v=U-u1wx5VeTU)
-
-[Maths using expr command](https://www.youtube.com/watch?v=qxNQ_D8txPo)
-
-[Real maths using bc command](https://www.youtube.com/watch?v=qxNQ_D8txPo)
-
-[if statement](https://www.youtube.com/watch?v=gncu9vzmILw)
-
-[if-else statement](https://www.youtube.com/watch?v=nDhbOeEQeNY)
-
-[if-else-if statement](https://www.youtube.com/watch?v=UJET-9cmaqU)
-
-[Nested if statement](https://www.youtube.com/watch?v=Kd1SJFnmj9k)
-
-[Case statement](https://www.youtube.com/watch?v=JJ7mAPU0KhI)
-
-[For Loop](https://www.youtube.com/watch?v=1fnAUUS4qg0)
-
-[While Loop](https://www.youtube.com/watch?v=nBMuVIRGpwY)
-
-[Until Loop](https://www.youtube.com/watch?v=zdk795qFgWk)
-
-[Functions](https://www.youtube.com/watch?v=jXv1otUXMG4)
-
-[Arrays](https://www.youtube.com/watch?v=2Fetj2V6rrM)
-
-[Eval command](https://www.youtube.com/watch?v=AjqBRGwLmLc&list=PL8cE5Nxf6M6b8qW7CSMsdKbEsPdG9pWfu&index=57&t=0s)
-
-[Shifting parameters using shift command](https://www.youtube.com/watch?v=48j0kxOFKZE)
-
-[IFS - Input Field Separator](https://www.youtube.com/watch?v=so8IRuhWjEM)
-
-[Writing CPU Usage script](https://www.youtube.com/watch?v=NQx43bY4lNo)
-
-[Writing Disk Utilization script](https://www.youtube.com/watch?v=yXhdDV13nrA)
-
-[Trouble shooting debugging shell scripts](https://www.youtube.com/watch?v=kgj-4_gmvi4)
-
-[Checking shell script errors and improvements using shellcheck.net site](https://www.youtube.com/watch?v=kgj-4_gmvi4)
-
-[Here Document to write paragraphs of text](https://www.youtube.com/watch?v=r9lb0ZxGFqE)
-
-[Getopts Function](https://www.youtube.com/watch?v=j-lEoC0DWI8)
-
-[Executing Multiple scripts from single script](https://youtu.be/hs-FK681D50)
-
-[logger logging messages to log file](https://youtu.be/_kMXvtn1RRQ)
+- [Shell Scripting Video Tutorial](https://www.youtube.com/watch?v=7GNUzvjS_mE&list=PL8cE5Nxf6M6b8qW7CSMsdKbEsPdG9pWfu)
+- [Shell Scripting course Overview](https://www.youtube.com/watch?v=7GNUzvjS_mE)
+- [Linux Basics](https://www.youtube.com/watch?v=IFvMor-0eFM)
+- [Linux Directory Structure](https://www.youtube.com/watch?v=rVxpe1_lNFE)
+- [Linux Basic Commands](https://www.youtube.com/watch?v=yYC8aaQ3eZA)
+- [Copy, Remove, Move and Time Commands](https://www.youtube.com/watch?v=G7XFreQkDB8)
+- [Dif and Grep Commands](https://www.youtube.com/watch?v=RwcQ6JzTsmA)
+- [Head, tail, sort and more commands](https://www.youtube.com/watch?v=OgV3qrPQulU)
+- [tr and wc commands](https://www.youtube.com/watch?v=d40a5zFa8yI)
+- [Disk utilities like fdisk, df and du commands](https://www.youtube.com/watch?v=vx1WZepOmKg)
+- [Getting Help From Command Line user Interface](https://www.youtube.com/watch?v=GcYu-0IIJas)
+- [w, who, hostnamem hostnamectl and uname commands](https://www.youtube.com/watch?v=7shAr5lp_Wc)
+- [Search for files and directories using find and locate commands](https://www.youtube.com/watch?v=Rd6e-OrsHpo)
+- [top command its output explanation](https://www.youtube.com/watch?v=UQ7rr4_47YY)
+- [vi & vim text editor](https://www.youtube.com/watch?v=K3SUrcJ740Y)
+- [sed, awk, vmstat and nestat commands](https://www.youtube.com/watch?v=4hJorSKg9E0)
+- [vnstat command](https://www.youtube.com/watch?v=KlpE2Ok6Bxo)
+- [Introduction to Graphical user interface](https://www.youtube.com/watch?v=Yck_xhz9ku0)
+- [cut command](https://www.youtube.com/watch?v=kBZNJdw7RQQ)
+- [Merge multiple files using paste command](https://www.youtube.com/watch?v=_Efd6PxhNq4)
+- [Connect and Manage remote machine using SSH](https://www.youtube.com/watch?v=Dp9J7aktYDs)
+- [Changing files and directory permissions](https://www.youtube.com/watch?v=NNAxqSyTsUI)
+- [tar and zip commands](https://www.youtube.com/watch?v=lVQppyhgERA)
+- [Scheduling future jobs using crontab](https://www.youtube.com/watch?v=OOOabNTnSwY)
+- [difference between scripting and programming](https://www.youtube.com/watch?v=5UuTNosxNgI)
+- [what is shell scripting and it's advantages](https://www.youtube.com/watch?v=m2DvuF_S4Ac)
+- [PATH environment variable](https://www.youtube.com/watch?v=4TZyWegxzGY)
+- [Symbols used shell scripting](https://www.youtube.com/watch?v=L8IxV7bvBHU)
+- [Make Shell Script Template](https://www.youtube.com/watch?v=7KEQJ7jtkTg)
+- [Quotes single, double and reverse - Know difference between each](https://www.youtube.com/watch?v=9_fhRI-dos4)
+- [Bash colors](https://arkit.co.in/coloring-style-text-shell-scripting/)
+- [Script exit status](https://arkit.co.in/shell-scripting-exit-status-shell-scripting-return-codes/)
+- [Variables and it's rules](https://www.youtube.com/watch?v=839s_OtTqDA)
+- [Special Variables](https://www.youtube.com/watch?v=PfxzX4XNYRE)
+- [Environment Variables, system variables and user defined variables](https://www.youtube.com/watch?v=PfxzX4XNYRE)
+- [Constant variables, Local & Global variables and Special variables](https://www.youtube.com/watch?v=839s_OtTqDA)
+- [Positional Parameters](https://www.youtube.com/watch?v=PfxzX4XNYRE)
+- [Count number command line arguments $#](https://www.youtube.com/watch?v=YizjrX9ph10)
+- [Arithmetic Operators](https://www.youtube.com/watch?v=qxNQ_D8txPo)
+- [Relational Operators](https://www.youtube.com/watch?v=U-u1wx5VeTU)
+- [LogicalOperators](https://www.youtube.com/watch?v=m_F1FTKdUU4)
+- [Boolean Operators](https://www.youtube.com/watch?v=U-u1wx5VeTU)
+- [Maths using expr command](https://www.youtube.com/watch?v=qxNQ_D8txPo)
+- [Real maths using bc command](https://www.youtube.com/watch?v=qxNQ_D8txPo)
+- [if statement](https://www.youtube.com/watch?v=gncu9vzmILw)
+- [if-else statement](https://www.youtube.com/watch?v=nDhbOeEQeNY)
+- [if-else-if statement](https://www.youtube.com/watch?v=UJET-9cmaqU)
+- [Nested if statement](https://www.youtube.com/watch?v=Kd1SJFnmj9k)
+- [Case statement](https://www.youtube.com/watch?v=JJ7mAPU0KhI)
+- [For Loop](https://www.youtube.com/watch?v=1fnAUUS4qg0)
+- [While Loop](https://www.youtube.com/watch?v=nBMuVIRGpwY)
+- [Until Loop](https://www.youtube.com/watch?v=zdk795qFgWk)
+- [Functions](https://www.youtube.com/watch?v=jXv1otUXMG4)
+- [Arrays](https://www.youtube.com/watch?v=2Fetj2V6rrM)
+- [Eval command](https://www.youtube.com/watch?v=AjqBRGwLmLc&list=PL8cE5Nxf6M6b8qW7CSMsdKbEsPdG9pWfu&index=57&t=0s)
+- [Shifting parameters using shift command](https://www.youtube.com/watch?v=48j0kxOFKZE)
+- [IFS - Input Field Separator](https://www.youtube.com/watch?v=so8IRuhWjEM)
+- [Writing CPU Usage script](https://www.youtube.com/watch?v=NQx43bY4lNo)
+- [Writing Disk Utilization script](https://www.youtube.com/watch?v=yXhdDV13nrA)
+- [Trouble shooting debugging shell scripts](https://www.youtube.com/watch?v=kgj-4_gmvi4)
+- [Checking shell script errors and improvements using shellcheck.net site](https://www.youtube.com/watch?v=kgj-4_gmvi4)
+- [Here Document to write paragraphs of text](https://www.youtube.com/watch?v=r9lb0ZxGFqE)
+- [Getopts Function](https://www.youtube.com/watch?v=j-lEoC0DWI8)
+- [Executing Multiple scripts from single script](https://youtu.be/hs-FK681D50)
+- [logger logging messages to log file](https://youtu.be/_kMXvtn1RRQ)
 
 **Resource to Download**
 
-[Shell Scripting Book](https://arkit-in.tradepub.com/free/w_wile48/)
-
-[Shell Scripting Book](https://arkit-in.tradepub.com/free/w_pack42/)
-
-[Shell Scripting Book](https://arkit-in.tradepub.com/free/w_advb01/)
-
-[Shell Scripting Book](https://arkit-in.tradepub.com/free/w_wile54/)
-
+- [Shell Scripting Book](https://arkit-in.tradepub.com/free/w_wile48/)
+- [Shell Scripting Book](https://arkit-in.tradepub.com/free/w_pack42/)
+- [Shell Scripting Book](https://arkit-in.tradepub.com/free/w_advb01/)
+- [Shell Scripting Book](https://arkit-in.tradepub.com/free/w_wile54/)
