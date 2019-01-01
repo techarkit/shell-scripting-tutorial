@@ -1,4 +1,4 @@
-# shell scripting tutorial
+# Shell Scripting Tutorial
 
 Keep in touch with for any kind of technical questions 
 
@@ -100,3 +100,15 @@ After that start learning shell scripting using below topics
 - [Shell Scripting Book](https://arkit-in.tradepub.com/free/w_pack42/)
 - [Shell Scripting Book](https://arkit-in.tradepub.com/free/w_advb01/)
 - [Shell Scripting Book](https://arkit-in.tradepub.com/free/w_wile54/)
+
+**Write Your Own Method of Script for below Scenario**
+
+- **Scenario:** Everyday from Monday to Friday one directory will be created under /fullbackup/dailybackup/YYYY-MM-DD and it will move backup to its parent directory everyday midnight /fullbackup/archive/, However Saturday, Sunday and Monday directories will move to /fullbackup/archive path every monday evening.
+
+- **Directory Names Example:** 2018-12-24 2018-12-25 2018-12-26 2018-12-27 2018-12-28
+
+- **Question:** I would like to delete directories older than two days from /fullbackup/archive path. How do you do it using any scripting methods.
+
+- **Problem Statement:** I was trying to use ```find /path/ -type d -mtime +2 -print0 | xargs -r0 rm --```. This command does not works as expcted due to directory modified date for SAT, SUN and MON are Mondays date.
+
+- **How Do you solve it.??** Write Shell Script to accomplish this task. Should run through crontab and clear directories older than two days.
