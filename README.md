@@ -109,6 +109,6 @@ After that start learning shell scripting using below topics
 
 - **Question:** I would like to delete directories older than two days from /fullbackup/archive path. How do you do it using any scripting methods.
 
-- **Problem Statement:** I was trying to use ```find /path/ -type d -mtime +2 -print0 | xargs -r0 rm --```. This command does not works as expcted due to directory modified date for SAT, SUN and MON are Mondays date.
+- **Problem Statement:** I was trying to use ```find /path/ -type d -mtime +2 -print0 | xargs -r0 rm --```. This command does not work as expected due to directory modified date for SAT, SUN and MON moved directories same for all as Monday date.
 
 - **How Do you solve it.??** Write Shell Script to accomplish this task. Should run through crontab and clear directories older than two days.
