@@ -2,6 +2,8 @@
 
 Keep in touch with for any kind of technical questions 
 
+[Shell Scripting for Amazon Web Services to Manage it's resources](https://github.com/techtutorials/shell-scripting-tutorial/tree/FOTV/AWS)
+
 https://techtutorials.github.io/shell-scripting-tutorial/
 
 * [Facebook](https://www.facebook.com/Linuxarkit/)
