@@ -6,9 +6,9 @@
 #Modified Date:
 #Author: Ankam Ravi Kumar
 # START #
-echo -c "Enter a number: \c"
+echo -e "Enter a number: \c"
 read -r a
-echo -c "Enter b number: \c"
+echo -e "Enter b number: \c"
 read -r b
 
 echo "1. Sum of values"
@@ -16,7 +16,7 @@ echo "2. Substraction"
 echo "3. Multiplication"
 echo "4. Division"
 echo "5. Modulo division"
-echo -c "Enter Your Choice from above menu: \c"
+echo -e "Enter Your Choice from above menu: \c"
 read -r ch
 case $ch in
 1) echo "Sum of $a + $b = "`expr $a + $b`;;
