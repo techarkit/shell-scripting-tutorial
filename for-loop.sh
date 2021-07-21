@@ -6,14 +6,14 @@
 #Modified Date:
 #Author: Ankam Ravi Kumar
 # START #
-for i in `cat hostfile`
+for server in `cat /scripts/servers`
 do
-ping -c 1 $i > /tmp/pingresults
+ping -c 1 $server > /tmp/ping
 valid=`echo $?`
-if [ $valid -gt 1 ]; then
-echo "$i Host is not reachable"
+if [ $valid -eq 0 ]; then
+echo "$server is up"
 else
-echo "$i Host is Up"
+echo "$server is Down"
 fi
 done
 # END #
