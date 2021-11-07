@@ -7,9 +7,9 @@
 #Author: Ankam Ravi Kumar
 # START #
 
-echo "enter the a vloue $a"
+echo "enter the a value $a"
 read a
-echo "enter the b volue $b"
+echo "enter the b value $b"
 read b
 if test "$a" -gt "$b" ; then
         echo "$a is greater than $b"
