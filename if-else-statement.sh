@@ -6,7 +6,7 @@
 #Website: https://arkit.co.in
 #Author: Ankam Ravi Kumar
 # START #
-echo -e "Enter any value> \c"
+echo -e "Enter any value: \c"
 read -r a
 echo -e "Enter any value: \c"
 read -r b

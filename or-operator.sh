@@ -5,7 +5,8 @@
 #Modified Date:
 #Author: Ankam Ravi Kumar
 # START #
-echo -e "Enter First Numberic Value: \c"
+
+echo -e "Enter First Numeric Value: \c"
 read -r t
 echo -e "Enter Second Numeric Value: \c"
 read -r b
@@ -13,7 +14,7 @@ read -r b
 if [ $t -le 20 -o $b -ge 30 ]; then
 echo "Statement is True"
 else
-echo "Flase, Statement Try Again."
+echo "False Statement, Try Again."
 fi
 
 # END #
