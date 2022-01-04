@@ -7,14 +7,14 @@
 #Author: Ankam Ravi Kumar
 # START #
 
-echo "enter the a vloue $a"
+echo -e "enter the a value: \c"
 read a
-echo "enter the b volue $b"
+echo -e "enter the b value: \c"
 read b
 if test "$a" -gt "$b" ; then
         echo "$a is greater than $b"
 else
-echo "$b is greater than $a"
+        echo "$b is greater than $a"
 fi
 
 # END #

@@ -5,7 +5,7 @@
 ##WebSite: https://arkit.co.in
 
 ##Start
-echo "Please Enter User name you want check:\c"
+echo -e "Please Enter User name you want check: \c"
 read user
 grep $user /etc/passwd > /dev/null
 if [ $? -eq 0 ]; then

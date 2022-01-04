@@ -6,6 +6,7 @@
 #WebSite: https://arkit.co.in
 #Author: Ankam Ravi Kumar
 # START #
+
 fruits=( "Apple" "Orange" "Banana" "Sapota" )
 fruits[3]='Green Apple'
 for fruit in ${fruits[@]}
