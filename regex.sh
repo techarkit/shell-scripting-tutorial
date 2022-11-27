@@ -1,7 +1,7 @@
 #!/bin/bash
 #Purpose: regex examples
-#Version:1.0
-#Create Date:
+#Version: 1.0
+#Create Date: Sun Nov 27 00:27:33 EST 2022
 #Modified Date:
 
 # START #
