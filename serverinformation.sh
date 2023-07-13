@@ -101,4 +101,12 @@ echo " " >> $LOG
 echo "## Docker Containers" >> $LOG
 sudo docker ps -a >> $LOG
 
+echo " " >> $LOG
+echo "## DNS Server Details" >> $LOG
+cat /etc/resolv.conf >> $LOG
+
+echo "" >> $LOG
+echo "## Server Uptime" >> $LOG
+uptime >> $LOG
+
 sudo cp /tmp/asset/`hostname`.txt /Inventory/`hostname`-`date "+%Y-%m-%d"`.txt
