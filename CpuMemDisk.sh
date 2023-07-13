@@ -4,7 +4,7 @@
 # Version:1.0
 # Created Date: 2019-05-02
 # Modified Date:
-# WebSite: https://server-computer.com
+# WebSite: https://arkit.co.in
 # Author: Ankam Ravi Kumar
 
 HOSTNAME=$(hostname)
