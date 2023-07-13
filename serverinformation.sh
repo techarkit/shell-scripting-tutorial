@@ -95,7 +95,7 @@ ss -alntup |column -t |grep -E 'tcp|udp' >> $LOG
 
 echo " " >> $LOG
 echo "## Service Information" >> $LOG
-systemctl list-units --type=service --state=active |grep -vE 'systemd|selinux' >> $LOG
+systemctl list-units --type=service --state=running |grep -vE 'systemd|selinux' >> $LOG
 
 echo " " >> $LOG
 echo "## Docker Containers" >> $LOG
