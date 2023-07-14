@@ -3,10 +3,16 @@
 mkdir -p /Inventory
 sudo chmod -R 777 /Inventory/
 mkdir -p /tmp/asset
-touch /tmp/asset/`hostname`.txt
+touch /tmp/asset/hostname.txt
+if [ -f /tmp/asset/hostname.txt ];then
+  echo "File /tmp/asset/hostname.txt Exists"
+else
+  mkdir /tmp/asset
+  touch /tmp/asset/hostname.txt
+fi
 touch /tmp/temptext
 TEMP=/tmp/temptext
-LOG=`ls /tmp/asset/*.txt`
+LOG=`ls /tmp/asset/hostname.txt`
 echo "## Host Information" > $LOG
 echo "Host Name : `hostname` " >> $LOG
 echo "`sudo /sbin/ifconfig -a |grep "inet" | awk 'BEGIN { FS = ":" } ; { print $2 }'`" >> $TEMP
